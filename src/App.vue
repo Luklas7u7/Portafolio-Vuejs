@@ -1,11 +1,11 @@
 <script setup>
-
+import NavBar from './components/NavBar.vue';
 </script>
 
 <template>
  <header>
-  <h1>Lucas Nicolas Aguilar
-  </h1>
+   <!--Barra de Navegacion-->
+        <NavBar />
  </header>
 </template>
 
